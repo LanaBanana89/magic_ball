@@ -18,4 +18,4 @@ $ ruby ./magic_ball.rb
 5)  И получить ответ на свой вопрос :)
 
 ## Скриншот
-![](https://wmpics.pics/di-RFFP.png)
+![](https://wmpics.pics/di-LDVW.png)
