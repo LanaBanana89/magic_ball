@@ -1,1 +1,2 @@
+# ВОЛШЕБНЫЙ ШАР
 A program, that displays a random response to a user question.
