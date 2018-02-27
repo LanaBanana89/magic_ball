@@ -1,34 +1,34 @@
 answers = [
   #Положительные
-  "It is certain",
-  "It is decidedly so",
-  "Without a doubt",
-  "Yes — definitely",
-  "You may rely on it",
+  "Бесспорно",
+	"Предрешено",
+	"Никаких сомнений",
+	"Определённо да",
+	"Можешь быть уверен в этом",
   #Не решительно положительные
-  "As I see it, yes",
-  "Most likely",
-  "Outlook good",
-  "Signs point to yes",
-  "Yes",
+  "Мне кажется — «да»",
+	"Вероятнее всего",
+	"Хорошие перспективы",
+	"Знаки говорят — «да»",
+	"Да",
   #Нейтральные
-  "Reply hazy, try again",
-  "Ask again later",
-  "Better not tell you now",
-  "Cannot predict now",
-  "Concentrate and ask again",
+  "Пока не ясно, попробуй снова",
+	"Спроси позже",
+	"Лучше не рассказывать",
+	"Сейчас нельзя предсказать",
+	"Сконцентрируйся и спроси опять",
   #Отрицательные
-  "Don’t count on it",
-  "My reply is no",
-  "My sources say no",
-  "Outlook not so good",
-  "Very doubtful"
+  "Даже не думай",
+	"Мой ответ — «нет»",
+	"По моим данным — «нет»",
+	"Перспективы не очень хорошие",
+	"Весьма сомнительно"
 ]
 
 welcome = [
-  "Hello, dear friend. I answer your question ...",
-  "He who inquires will receive the answer:",
-  "Hello, mortal. Today for you this answer:"
+  "Привет, Дорогой друг. Я отвечаю на твой вопрос ...",
+  "Тот, кто спрашивает, получит ответ:",
+  "Приветствую, бессмертый. Сегодня для тебя такой ответ:"
 ]
 #выводим случайное приветствие
 puts welcome.sample
